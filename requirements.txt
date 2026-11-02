@@ -8,7 +8,7 @@ matplotlib==3.1.2
 mccabe==0.6.1
 numpy==1.17.4
 pycodestyle==2.5.0
-pylint==2.4.4
+pylint==4.0.9
 pyparsing==2.4.5
 PyQt5==5.13.2
 PyQt5-sip==12.7.0
